@@ -1,0 +1,52 @@
+:root {
+  /* Colores principales */
+  --color-primary: #e50914; /* Rojo característico de Netflix */
+  --color-secondary: #b20710; /* Rojo oscuro */
+  --color-success: #25ae60; /* Verde */
+  --color-danger: #cc0000; /* Rojo */
+  --color-warning: #f5bf2e; /* Amarillo */
+  --color-info: #0078ff; /* Azul */
+
+  /* Colores neutros */
+  --color-white: #ffffff; /* Blanco */
+  --color-black: #000000; /* Negro */
+  --color-gray-light: #f5f5f1; /* Gris claro */
+  --color-gray: #8f8f8f; /* Gris medio */
+  --color-gray-dark: #1c1c1c; /* Gris oscuro */
+
+  /* Colores adicionales */
+  --color-purple: #8e3cd5; /* Morado */
+  --color-pink: #e3237e; /* Rosa */
+  --color-orange: #f5631d; /* Naranja */
+  --color-yellow: #f7cc35; /* Amarillo */
+
+  /* Colores de fondo */
+  --color-bg-primary: #1f1f1f; /* Fondo principal (negro) */
+  --color-bg-secondary: #141414; /* Fondo secundario (negro más oscuro) */
+
+  /* Colores de texto */
+  --color-text-primary: #ffffff; /* Texto principal (blanco) */
+  --color-text-secondary: #b8b8b8; /* Texto secundario (gris claro) */
+
+  /* Colores de borde */
+  --color-border: #3a3a3a; /* Color de borde (gris oscuro) */
+
+  /* Colores de enlace */
+  --color-link: #e50914; /* Color de enlaces (rojo de Netflix) */
+  --color-link-hover: #b20710; /* Color de enlaces al pasar el mouse (rojo oscuro) */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+}
+
+
