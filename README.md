@@ -1,6 +1,5 @@
 # 🌟 Node.js and React REST API for Resource Management (UTNFLIX)
 
-**🛠️ Developed by:** UTN · FRC  
 **📅 Duration:** Mar 2024 - Jun 2024
 
 ## 📖 Description
