@@ -18,10 +18,14 @@ This project is a **REST API** developed collaboratively for resource management
 - **🔒 Security**: Implemented basic security measures to safeguard API endpoints and user data.
 
 ## 📷 Photos
-Add your project photos here by replacing the placeholders with your image URLs:
 
-- ![Photo 1](URL_TO_YOUR_PHOTO_1)
-- ![Photo 2](URL_TO_YOUR_PHOTO_2)
-- ![Photo 3](URL_TO_YOUR_PHOTO_3)
+![Photo 1](project-assets/imgs/img1.png)
+![Photo 2](project-assets/imgs/img2.png)
+![Photo 3](project-assets/imgs/img3.png)
+![Photo 4](project-assets/imgs/img4.png)
+![Photo 5](project-assets/imgs/img5.png)
+![Photo 6](project-assets/imgs/img6.png)
 
+## 📺 Video
 
+Check out the project demo [here](project-assets/video/video.mp4).
